@@ -507,3 +507,4 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/java,csharp,python,visualstudiocode
+generate-cc.py
