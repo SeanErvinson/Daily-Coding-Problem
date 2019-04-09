@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cc4",
+            "request": "launch",
+            "mainClass": "cc4"
+        }
+    ]
+}
